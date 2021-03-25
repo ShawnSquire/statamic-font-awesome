@@ -1,5 +1,5 @@
 {
-    "name": "aryehraber/statamic-font-awesome",
+    "name": "kautiontape/statamic-font-awesome",
     "type": "statamic-addon",
     "description": "Typeahead search for Font Awesome icons",
     "keywords": [
