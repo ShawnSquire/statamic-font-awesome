@@ -10,7 +10,7 @@
     "homepage": "https://github.com/aryehraber/statamic-font-awesome",
     "license": "MIT",
     "require": {
-        "statamic/cms": "3.1.*"
+        "statamic/cms": "*"
     },
     "autoload": {
         "psr-4": {
